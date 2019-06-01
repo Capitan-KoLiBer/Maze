@@ -3,7 +3,7 @@ The Amazing Maze Game is an arcade game developed by Midway, released in 1976.
 
 The object of the game is for the player to find their way out of a challenging maze before their opponent. Users can play as single player and compete against the computer.
 
-![maze1](https://github.com/koliberr136a1/Maze/maze.png)
+![maze1](https://raw.githubusercontent.com/koliberr136a1/Maze/master/maze.png)
 
 ## Min Dependencies
 ```
